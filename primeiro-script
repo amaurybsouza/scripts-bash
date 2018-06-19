@@ -1,0 +1,70 @@
+#!/bin/bash
+clear
+VAR2="Curso LPI1"
+VAR3=20
+VAR4=`cat /etc/passwd | wc -l`
+VAR5=$(date +%H)
+echo "=========================== Meu Primeiro script =========================="
+echo ""
+echo "o meu script se chama $0"
+echo "esse script recebeu $# parametros que são, $1 $2"
+echo ""
+echo "por favor digite um número de 0 a 10:"
+read VAR1
+echo "o valor digitado foi $VAR1"
+echo ""
+echo "o arquivo /etc/passwd possui $VAR4 linhas. A hora atual é $VAR5"
+echo ""
+# TESTE DO IF
+if test $VAR4 -gt $VAR3 ; then
+	echo "O sistema tem mais de $VAR3 usuários"
+else 
+	echo "O sistema tem menos de $VAR3 usuários"
+fi	
+
+echo "fim do script"
+
+# TESTE DO CASE
+echo ""
+case $VAR1 in
+	0)
+		echo "o valor digitado foi 0"
+	;;
+        1|2|3|4|5)
+	        echo "o valor digitado foi entre 1 e 5"
+	        sleep 3
+	;;
+        *)
+		echo "o valor digitado foi maior que 5"
+esac
+
+# TESTE DO FOR
+echo ""
+echo "=================== LOOP DO FOR===================="
+for i in `seq $1`
+do
+	j=`expr $i + $VAR1`
+	echo "$i + $VAR1 = $j"
+done
+
+# TESTE DO WHILE
+echo ""
+echo "=================== LOOP DO WHILE =================="
+while [ $VAR1 -le  $1 ]
+do 
+	echo "O valor atual do \$VAR1 é: $VAR1"
+	VAR1=`expr $VAR1 + 1`
+done
+
+
+# TESTE DO UNTIL
+echo ""
+echo "=================== LOOP DO UNTIL =================="
+until [ $VAR1 = 0 ]
+do 
+	echo "O valor atual do \$VAR1 é: $VAR1"
+	VAR1=`expr $VAR1 - 1`
+	sleep 1
+done
+
+
