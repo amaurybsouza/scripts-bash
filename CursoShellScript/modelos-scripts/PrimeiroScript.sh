@@ -17,14 +17,16 @@
 #                                                                                      #
 ######################################################################################## 
 
+DATAHORA=$(date +%H:%M)
+ARQALUNOS="/home/amaury/Projetos-GitHuB/Shell-Script/CursoShellScript/arquivos/alunos2.txt"
+
 # Função da leitura de data e hora
 clear
 echo "===== MEU PRIMEIRO SCRIPT ====="
 echo ""
-echo -n "Exibir data e hora atual: "
-date
+echo "Exibir data e hora atual: $DATAHORA"
 
 # Area de leitura da lista de alunos
 echo "==============================="
 echo "Listagem de Alunos: "
-sort ../arquivos/alunos2.txt # Caminho dos arquivos de alunos
+sort $ARQALUNOS 
