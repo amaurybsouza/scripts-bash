@@ -1,0 +1,12 @@
+CONTINUAÇÃO DA AULA DE SHELL SCRIPT.
+
+1 - Condição - if
+
+if <comando-condição>
+then
+   comando 1
+   comando 2
+   comando 3
+fi
+
+
