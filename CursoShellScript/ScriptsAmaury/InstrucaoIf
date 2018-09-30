@@ -2,6 +2,9 @@ CONTINUAÇÃO DA AULA DE SHELL SCRIPT.
 
 1 - Condição - if
 
+
+   - Modelo 1:
+
 if <comando-condição>
 then
    comando 1
@@ -9,4 +12,23 @@ then
    comando 3
 fi
 
+   - Modelo 2:
 
+if <comando-condição>
+then
+   comando 1
+else
+   comando 2
+fi
+
+   - Molode 3:
+
+if <comando-condição>
+then
+   comando 1
+elif <comando-condição>
+then
+   comando 2
+else
+   comando 3
+fi
