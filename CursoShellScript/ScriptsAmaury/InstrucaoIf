@@ -1,5 +1,7 @@
 CONTINUAÇÃO DA AULA DE SHELL SCRIPT.
 
+           
+
 1 - Condição - if
 
 
@@ -32,3 +34,6 @@ then
 else
    comando 3
 fi
+
+
+
