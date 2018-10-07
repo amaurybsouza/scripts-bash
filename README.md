@@ -14,6 +14,7 @@ Mostrando a hora atual: [HoraAtual.sh](https://github.com/amaurybsouza/Shell-Scr
 Script que soma valores: 
 
 `Veja abaixo a linha de comando:`
+
 ![SomaValores.sh](CursoShellScript/Images/somavalores.png)
 
 
