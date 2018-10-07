@@ -1,4 +1,4 @@
-#!/bon/bash
+#!/bin/bash
 
 
 
