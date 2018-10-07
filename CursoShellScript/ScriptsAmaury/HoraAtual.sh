@@ -1,18 +1,18 @@
 #!/bin/bash
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#############################################################
+#                                                           #
+# NOME: HoraAtual.sh                                        #
+#                                                           # 
+# AUTOR: Amaury Borges Souza (amaurybsouza@gmail.com)       #
+#                                                           #
+# DATA: 16/09/2018                                          #
+#                                                           #
+# DESCRIÇÃO: O script mostra a hora atual                   #
+#                                                           #
+#                                                           #
+# USO: ./HoraAtual.sh                                       #
+#############################################################
 
 if [ "$(date +%k)" -ge 6 -a "$(date +%k)" -le 11 ]
 then
@@ -28,11 +28,7 @@ fi
 
 
 
-
-
-
-
-
+# OUTRO EXEMPLO DO SCRIPT #
 
 #horas=`date | cut -d" " -f4 | cut -d: -f1`
 
