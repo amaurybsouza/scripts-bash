@@ -1,14 +1,14 @@
 #!/bin/bash
 
 ################################################################################
-# Nome: exercicio1.sh                                                          #
+# Nome: SomaValores.sh                                                         #
 #                                                                              #
 # Autor: Amaury Borges Souza (amaurybsouza@gmail.com)                          #
 # Data: 16/09/2018                                                             #
 #                                                                              #
 # Descrição: O script faz a soma de dois valores inseridos pelo usuário        #
 #                                                                              #
-# Uso: ./exercicio1.sh                                                         #
+# Uso: ./SomaValores.sh                                                        #
 #                                                                              # 
 ################################################################################
 
