@@ -10,7 +10,7 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que soma valores: 
 
-`Veja abaixo a linha de comando:`
+``Veja abaixo a linha de comando:``
 
 ![SomaValores.sh](CursoShellScript/Images/somavalores.png)
 
