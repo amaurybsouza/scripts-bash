@@ -1,5 +1,5 @@
 # Shell-Script
-A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e simples de automatizar tarefas do dia a dia e permitir que os sysadmins produzam mais com menos esforço
+A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e simples de automatizar tarefas do dia a dia.
 
 
 ![Imagem de teste](CursoShellScript/Images/zabbix.png)
