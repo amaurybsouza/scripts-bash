@@ -31,6 +31,8 @@ echo "Fim do script"
 echo ""
 sleep 2
 
+
+
 # Outra forma de se fazer a mesma função:
 
 #read -p "Informe o valor 1: " VALOR1
