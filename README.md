@@ -5,4 +5,4 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 ![Imagem do zabbix](CursoShellScript/Images/zabbix.png)
 
 
-Script para gerar relatório do sistema: [RelatorioMaquina.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatorioMaquina.sh).*
+Script para gerar relatório do sistema: [RelatorioMaquina.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatorioMaquina.sh).
