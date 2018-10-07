@@ -11,3 +11,11 @@ Script simples que mostra um exemplo básico do Case: [ScriptCase.sh](https://gi
 
 Mostrando a hora atual: [HoraAtual.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/HoraAtual.sh).
 
+Script que soma valores: 
+
+`Veja abaixo a linha de comando:`
+
+![SomaValores.sh](CursoShellScript/Images/somavalores.png)
+
+
+
