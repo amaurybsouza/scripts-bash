@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #############################################################
 #                                                           #
 # NOME: RelatorioMaquina.sh                                 #
@@ -13,7 +12,6 @@
 #                                                           #
 # USO: ./RelatorioMaquina.sh                                #
 #############################################################
-
 KERNEL=$(uname -r)
 HOSTNAME=$(hostaname)
 CPUNO=$(cat /proc/cpuinfo | grep "model name" | wc -l)
@@ -21,7 +19,6 @@ CPUMODEL=$(cat /proc/cpuinfo | grep "model name" | head -n1 | cut -c14-)
 MEMTOTAL=$(expr $(cat /proc/meminfo | grep MemTotal | tr -d ' ' | cut -d: -f 2 | tr -d kb)) # Em MB
 FILESYS=$(df -h | egrep -v '(tmpfs|udev)')
 UPTIME=$(uptime -s)
-
 clear
 echo "========================================================================="
 echo "Relatório da Máquina: $HOSTNAME"
