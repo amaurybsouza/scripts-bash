@@ -4,9 +4,9 @@
 clear
 echo "Escolha uma opção do menu:"
 echo
-echo "1 - Adicionar"
-echo "2 - Remover"
-echo "3 - Alterar"
+echo "1 - Atualizar o sistema"
+echo "2 - Limpando pacotes do sistema"
+echo "3 - Escrevendo um teste com echo"
 echo "q - sair"
 echo
 read -p "Opção:" opcao
@@ -17,17 +17,17 @@ echo
 case "$opcao" in
 	1) 
 		echo "Opção 1 escolhida"
-		echo "Iniciar operação de inclusão..."
+		echo "Adicionar sistema no domínio"
 		sleep 3
 		;;
 	2) 
 		echo "Opção 2 escolhida"
-		echo "Iniciar operação de remoção..."
+		echo "Instalação da impressora Samsumg"
 		sleep 3
 		;;
 	3) 
 		echo "Opção 3 escolhida"
-		echo "Iniciar operação de alteração"
+		echo "Verificar backup do sistema"
 		sleep 3
 		;;
 esac
