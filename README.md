@@ -12,6 +12,8 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script básico de um menu usando o Case: [MenuCase.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/MenuCase.sh)
 
+-> Script que gera um relatório de um usuário do sistema: [RelatoriodeUsuario.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatoriodeUsuario.sh)
+
 ```Veja abaixo a linha de comando:```
 
 ![SomaValores.sh](CursoShellScript/Images/somavalores.png)
