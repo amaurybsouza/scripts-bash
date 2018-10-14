@@ -14,6 +14,8 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que gera um relatório de um usuário do sistema: [RelatoriodeUsuario.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatoriodeUsuario.sh)
 
+## Uso de Shell Script (Bash) para automação da infra de TI
+
 ```Veja abaixo a linha de comando:```
 
 ![SomaValores.sh](CursoShellScript/Images/somavalores.png)
