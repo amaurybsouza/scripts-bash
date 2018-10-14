@@ -10,6 +10,8 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que soma valores: [SomaValores.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/SomaValores.sh)
 
+-> Script básico de um menu usando o Case: [MenuCase.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/MenuCase.sh)
+
 ```Veja abaixo a linha de comando:```
 
 ![SomaValores.sh](CursoShellScript/Images/somavalores.png)
