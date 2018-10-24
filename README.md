@@ -14,6 +14,15 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que gera um relatório de um usuário do sistema: [RelatoriodeUsuario.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatoriodeUsuario.sh)
 
+-> Script que mostra um exemplo básico de operações com valores: []()
+
+
+
+
+
+
+
+
 ## Uso de Shell Script (Bash) para automação da infra de TI
 
 ```Veja abaixo a linha de comando:```
