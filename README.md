@@ -18,7 +18,7 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 ### Instruções de Loop - for
 
--> Exemplo de uso da instrução for: [InstrucoesLoop.txt](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt)
+-> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt)
 
 ```
 for variavel in valor1 valor2 ... valorN
