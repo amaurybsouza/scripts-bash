@@ -22,11 +22,19 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 ### Instruções de Loop - while
 
+-> Exemplo de uso da instrução
+
 ### Instruções de Loop - until
+
+-> Exemplo de uso da instrução
 
 ### Instruções de Loop - break
 
+-> Exemplo de uso da instrução
+
 ### Instruções de Loop - continue
+
+-> Exemplo de uso da instrução
 
 ## Uso de Shell Script (Bash) para automação da infra de TI
 
