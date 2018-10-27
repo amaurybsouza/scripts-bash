@@ -1,0 +1,6 @@
+for variavel in valor1 valor2 ... valorN
+do
+comando1
+comando2
+...
+done
