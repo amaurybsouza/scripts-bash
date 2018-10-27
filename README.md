@@ -16,7 +16,7 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que mostra um exemplo básico de operações com valores: [OperacoesValores.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/OperacoesValores.sh)
 
-## Instruções de Loop - For (Exemplos de uso)
+### Instruções de Loop - for
 
 -> Exemplo de uso da instrução for: [InstrucoesLoop.txt](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt)
 
