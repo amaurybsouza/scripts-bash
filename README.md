@@ -16,23 +16,23 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que mostra um exemplo básico de operações com valores: [OperacoesValores.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/OperacoesValores.sh)
 
-### Instruções de Loop - for
+#### Instruções de Loop - for
 
 -> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh)
 
-### Instruções de Loop - while
+#### Instruções de Loop - while
 
 -> Exemplo de uso da instrução
 
-### Instruções de Loop - until
+#### Instruções de Loop - until
 
 -> Exemplo de uso da instrução
 
-### Instruções de Loop - break
+#### Instruções de Loop - break
 
 -> Exemplo de uso da instrução
 
-### Instruções de Loop - continue
+#### Instruções de Loop - continue
 
 -> Exemplo de uso da instrução
 
