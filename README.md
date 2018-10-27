@@ -14,6 +14,65 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que gera um relatório de um usuário do sistema: [RelatoriodeUsuario.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatoriodeUsuario.sh)
 
+-> Script que mostra um exemplo básico de operações com valores: [OperacoesValores.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/OperacoesValores.sh)
+
+## Instruções de Loop - For (Exemplos de uso)
+
+```
+for variavel in valor1 valor2 ... valorN
+do
+comando1
+comando2
+...
+done
+```
+
+```
+for numero in 1 2 3 4 5
+do
+echo “O número atual é $numero“
+done
+```
+```
+for arquivo in alunos*
+do
+echo “O arquivo atual é $arquivo“
+done
+```
+```
+for sequencia in $(seq 5 10)
+do
+echo “O número é $sequencia“
+done
+```
+```
+for i in $(cat arquivo.txt)
+do
+echo “A valor atual é $i“
+done
+```
+```
+for (( i=5 ; i <= 20 ; i++ ))
+do
+echo “O número é $i“
+done
+```
+```
+#!/bin/bash
+
+#testendo o loop do for
+
+for numero in 1 2 3 4 5
+do
+        echo "O número atual é $numero"
+        sleep 3
+done
+```
+
+
+
+
+
 ## Uso de Shell Script (Bash) para automação da infra de TI
 
 ```Veja abaixo a linha de comando:```
