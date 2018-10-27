@@ -20,6 +20,14 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh)
 
+### Instruções de Loop - while
+
+### Instruções de Loop - until
+
+### Instruções de Loop - break
+
+### Instruções de Loop - continue
+
 ## Uso de Shell Script (Bash) para automação da infra de TI
 
 
