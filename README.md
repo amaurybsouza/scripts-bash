@@ -18,7 +18,7 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 #### Instruções de Loop - for
 
--> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
+-> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
 
 #### Instruções de Loop - while
 
