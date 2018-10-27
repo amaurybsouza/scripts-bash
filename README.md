@@ -39,7 +39,24 @@ do
 echo “O arquivo atual é $arquivo“
 done
 ```
-
+```
+for sequencia in $(seq 5 10)
+do
+echo “O número é $sequencia“
+done
+```
+```
+for i in $(cat arquivo.txt)
+do
+echo “A valor atual é $i“
+done
+```
+```
+for (( i=5 ; i <= 20 ; i++ ))
+do
+echo “O número é $i“
+done
+```
 
 
 
