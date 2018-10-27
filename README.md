@@ -38,5 +38,5 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 ## Uso de Shell Script (Bash) para automação da infra de TI
 
--> Script que faz a instalação do Zabbix Agent em sistemas Debian: [InstalaçãoZabbixAgent](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstalacaoZabbixAgent.sh)
+-> Script que faz a instalação do Zabbix Agent 4.0 em sistemas Debian: [ZabbixAgent](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstalacaoZabbixAgent.sh)
 
