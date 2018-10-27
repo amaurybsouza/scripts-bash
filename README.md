@@ -18,23 +18,27 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 ## Instruções de Loop - For (Exemplos de uso)
 
+```
 for variavel in valor1 valor2 ... valorN
 do
 comando1
 comando2
 ...
 done
+```
 
+```
 for numero in 1 2 3 4 5
 do
 echo “O número atual é $numero“
 done
-
+```
+```
 for arquivo in alunos*
 do
 echo “O arquivo atual é $arquivo“
 done
-
+```
 
 
 
