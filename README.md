@@ -22,9 +22,4 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 ## Uso de Shell Script (Bash) para automação da infra de TI
 
-```Veja abaixo a linha de comando:```
-
-![SomaValores.sh](CursoShellScript/Images/somavalores.png)
-
-
 
