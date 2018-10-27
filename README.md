@@ -36,7 +36,7 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Exemplo de uso da instrução
 
-## Uso de Shell Script (Bash) para automação da infra de TI
+## Uso de Shell Script (Bash) para otimização da Infraestrutura de TI
 
 -> Script que faz a instalação do Zabbix Agent 4.0 em sistemas Debian: [ZabbixAgent](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstalacaoZabbixAgent.sh)
 
