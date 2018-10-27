@@ -18,62 +18,7 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 ### Instruções de Loop - for
 
--> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt)
-
-```
-for variavel in valor1 valor2 ... valorN
-do
-comando1
-comando2
-...
-done
-```
-
-```
-for numero in 1 2 3 4 5
-do
-echo “O número atual é $numero“
-done
-```
-```
-for arquivo in alunos*
-do
-echo “O arquivo atual é $arquivo“
-done
-```
-```
-for sequencia in $(seq 5 10)
-do
-echo “O número é $sequencia“
-done
-```
-```
-for i in $(cat arquivo.txt)
-do
-echo “A valor atual é $i“
-done
-```
-```
-for (( i=5 ; i <= 20 ; i++ ))
-do
-echo “O número é $i“
-done
-```
-```
-#!/bin/bash
-
-#testendo o loop do for
-
-for numero in 1 2 3 4 5
-do
-        echo "O número atual é $numero"
-        sleep 3
-done
-```
-
-
-
-
+-> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh)
 
 ## Uso de Shell Script (Bash) para automação da infra de TI
 
