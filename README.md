@@ -18,7 +18,7 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 #### Instruções condicionais - if
 
--> Exemplo de uso da instrução if: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh) 
+-> Exemplo de uso da instrução if: [Exemplo 1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [Exemplo 2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh) 
 
 #### Instruções condicionais - case
 
