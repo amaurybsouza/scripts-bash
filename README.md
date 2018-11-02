@@ -20,6 +20,10 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Exemplo de uso da instrução if: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh) 
 
+#### Instruções condicionais - case
+
+-> Exemplo de uso da instrução case:
+
 #### Instruções de Loop - for
 
 -> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
