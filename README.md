@@ -24,15 +24,15 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Exemplo de uso da instrução case:
 
-#### Instruções de Loop - for
+#### Instruções de loop - for
 
 -> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
 
-#### Instruções de Loop - while
+#### Instruções de loop - while
 
 -> Exemplo de uso da instrução
 
-#### Instruções de Loop - until
+#### Instruções de loop - until
 
 -> Exemplo de uso da instrução
 
