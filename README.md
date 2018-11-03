@@ -42,3 +42,5 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que faz a instalação do Zabbix Agent 4.0 no sistema CentOS: [ZabbixAgent4.0](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/ZabbixAgentCentos.sh)
 
+-> Instalação automática de programas básicos para um usuário final: 
+
