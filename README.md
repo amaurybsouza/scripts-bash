@@ -16,6 +16,8 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Script que mostra um exemplo básico de operações com valores: [OperacoesValores.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/OperacoesValores.sh)
 
+## Instruções Condicionais
+
 #### Instruções condicionais - if
 
 -> Exemplo de uso da instrução if: [Exemplo 1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [Exemplo 2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh) 
@@ -36,11 +38,11 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 -> Exemplo de uso da instrução
 
-## Automação da infraestrutura de TI usando shell script
+## Scripts para automatização de rotinas
 
 -> Script que faz a instalação do Zabbix Agent 4.0 em sistemas Debian: [ZabbixAgent4.0](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstalacaoZabbixAgent.sh)
 
 -> Script que faz a instalação do Zabbix Agent 4.0 no sistema CentOS: [ZabbixAgent4.0](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/ZabbixAgentCentos.sh)
 
--> Instalação automática de programas básicos para um usuário final: 
+-> Instalação automática de programas: [Programas Linux](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/Install_Softwares.sh)
 
