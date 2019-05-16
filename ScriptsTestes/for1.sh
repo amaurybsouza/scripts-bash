@@ -5,12 +5,12 @@
 # version: 1.0 
 # licença: MIT License
 
+
 clear 
 
 for valor in `ls /etc/*`
 do
 	echo O arquivo é: $valor
-	sleep 2
 	if [ -f $valor ]
 then
 	echo Isso é um arquivo!
