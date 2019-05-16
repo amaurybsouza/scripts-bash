@@ -1,4 +1,9 @@
-#!/bin/bash
+#!/usr/bin/env bash
+
+# autor: Nome Sobrenome <site.dominio>
+# descrição: O que seu Script/Programa faz 
+# version: 1.0 
+# licença: MIT License
 
 clear 
 
