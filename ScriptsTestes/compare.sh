@@ -4,7 +4,7 @@
 # Script Name: compare.sh - Check which number is larger than the other
 #
 # Site:          https://medium.com/@amaurybsouza
-# Author:        Amaury
+# Written by:    Amaury
 # Maintenance:   Amaury
 # E-mail:        amaurybsouza@gmail.com
 #
