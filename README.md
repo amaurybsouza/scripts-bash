@@ -12,15 +12,16 @@
 - Livro "Programação Shell Linux" - por Julio Cezar Neves.
 - Livro "Shell Script Profissional" - por Aurelio Marinho Jargas.
 
-## Variáveis especiais
+## Argumentos especiais
 
-Variável  | Descrição
---------- | ------
-$0        | nome do comando ou função
- teste    | teste
- teste    |  teste
- teste    | teste
-
+Argumentos| Descrição
+--------- | ----------------------------------------------
+   $0     | contém o nome do script que foi executado
+   $#     | contém o número de argumentos que foi passado 
+   $*     | retorna todos os argumentos de uma vez só
+   $$     | PID do processo atual (do próprio script)
+   $?     | retorna o valor do último comando executado
+   $_     | último argumento do último comando executado
 
 ## Loops e Condicionais
 
