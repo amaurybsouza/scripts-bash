@@ -1,5 +1,7 @@
 # Mostrando o uso básico de Shell Script
 
+- Editor usado: VIM (versão 8.0.1453) Para saber mais detalhes do VIM, acessa esse link aqui: [VIM](https://github.com/amaurybsouza/LPIC1-Linux_Administrator/blob/master/Exame%20101/Topic%20103:%20GNU%20and%20Unix%20Commands/103.8%20Perform%20basic%20file%20editing%20operations%20using%20vi)
+
 ## Loops e Condicionais
 
 #### Instruções condicionais - if
