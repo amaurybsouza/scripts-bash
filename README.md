@@ -1,3 +1,5 @@
+# Mostrando o uso básico de Shell Script
+
 ## Loops e Condicionais
 
 #### Instruções condicionais - if
@@ -16,7 +18,7 @@
 -> Exemplo de uso da instrução
 
 
-## Uso básico de Shell-Script (Bash)
+## Criando meus primeiros scripts
 A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e simples de automatizar tarefas do dia a dia.
 
 
