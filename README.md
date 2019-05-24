@@ -5,6 +5,9 @@
 - Quando usar shell script? Você pode usar sem moderação, o bash é muito poderoso e oferece diversas funcionalidades e para facilitar o dia a dia você pode automatizar as tarefas usando scripts, como por exemplo, um backup automático de um diretório, a instalação de programas, instalação do LAMP, etc.
 - Descrição do projeto: abaixo irei mostrar algumas formas de uso de scripts, na qual obtive resultados reais.
 
+## Cursos de Shell Script na Udemy
+- Conceitos de Programação em Shell Script (Curso Gratuito)
+
 ## Loops e Condicionais
 
 1) Instrução if: [modelo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [modelo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [modelo3](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/if3_1.sh), [modelo4](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/jogo_secreto.sh), [modelo5](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/verifica_valor.sh), [modelo6](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/compare.sh), [modelo7](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/dir.sh)
