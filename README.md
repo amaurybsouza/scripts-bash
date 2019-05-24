@@ -8,7 +8,7 @@
 ## Onde buscar conhecimentos de shell? Na Udemy e de graça! :-)
 - Linux Fundamentals for IT Professionals (https://www.udemy.com/linux-fundamentals-for-it-professionals/)
 - Intro to Linux Shell Scripting (Free course) (https://www.udemy.com/linux-shell-scripting-free/)
-- Conceitos de Programação em Shell Script (Curso Gratuito) (https://www.udemy.com/conceitos-de-programacao-em-shell-script/)
+- Conceitos de Programação em Shell Script (https://www.udemy.com/conceitos-de-programacao-em-shell-script/)
 
 ## Loops e Condicionais
 
