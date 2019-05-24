@@ -8,18 +8,14 @@
 ## Loops e Condicionais
 
 #### Instruções condicionais - if
-- Instrução if: [modelo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [modelo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [modelo3](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/if3_1.sh), [modelo4](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/jogo_secreto.sh)
+- Instrução if: [modelo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [modelo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [modelo3](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/if3_1.sh), [modelo4](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/jogo_secreto.sh), [modelo5](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/verifica_valor.sh), [modelo6](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/compare.sh)
 
-#### Instruções condicionais - case
 - Instrução case:
 
-#### Instruções de loop - for
 - Instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
 
-#### Instruções de loop - while
 - instrução while
 
-#### Instruções de loop - until
 - instrução until
 
 
