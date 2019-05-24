@@ -11,16 +11,16 @@
 - Instrução if: [modelo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [modelo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [modelo3](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/if3_1.sh)
 
 #### Instruções condicionais - case
--> Exemplo de uso da instrução case:
+- Instrução case:
 
 #### Instruções de loop - for
--> Exemplo de uso da instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
+- Instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
 
 #### Instruções de loop - while
--> Exemplo de uso da instrução
+- instrução while
 
 #### Instruções de loop - until
--> Exemplo de uso da instrução
+- instrução until
 
 
 ## Criando meus primeiros scripts
