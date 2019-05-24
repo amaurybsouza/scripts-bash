@@ -1,4 +1,4 @@
-## Instruções Condicionais
+## Loops e Condicionais
 
 #### Instruções condicionais - if
 -> Exemplo de uso da instrução if: [Exemplo 1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [Exemplo 2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh)
