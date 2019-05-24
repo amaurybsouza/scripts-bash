@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 #
 # for1.sh - Verifica os arquivos e diretórios do /etc
@@ -29,6 +30,14 @@
 #       Joãozinho - Encontrou um bug na parte de login.
 #       Mariazinha - Enviou uma sugestão de adicionar o -h.
 # ------------------------------------------------------------------------ #
+=======
+#!/usr/bin/env bash
+
+# autor: Nome Sobrenome <site.dominio>
+# descrição: O que seu Script/Programa faz 
+# version: 1.0 
+# licença: MIT License
+>>>>>>> 6f1d263462bc9201059c8a19385f453b4ecfd741
 
 clear
 for valor in `ls /etc/*`
