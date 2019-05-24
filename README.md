@@ -9,6 +9,8 @@
 - Linux Fundamentals for IT Professionals (https://www.udemy.com/linux-fundamentals-for-it-professionals/)
 - Intro to Linux Shell Scripting (Free course) (https://www.udemy.com/linux-shell-scripting-free/)
 - Conceitos de Programação em Shell Script (https://www.udemy.com/conceitos-de-programacao-em-shell-script/)
+- Livro "Programação Shell Linux" - por Julio Cezar Neves.
+- Livro "Shell Script Profissional" - por Aurelio Marinho Jargas.
 
 ## Loops e Condicionais
 
