@@ -1,7 +1,14 @@
-## Instruções Condicionais
+# Mostrando o uso básico de Shell Script
+
+- Editor usado: VIM (versão 8.0.1453). Para saber mais detalhes do VIM, acessa esse link aqui: [VIM](https://github.com/amaurybsouza/LPIC1-Linux_Administrator/blob/master/Exame%20101/Topic%20103:%20GNU%20and%20Unix%20Commands/103.8%20Perform%20basic%20file%20editing%20operations%20using%20vi)
+- Vantagens do projeto: uso básico de comandos do shell, automação da infra, loops e condicionais em shell, efetuando debug do seu código.
+- Quando usar shell script? Você pode usar sem moderação, o bash é muito poderoso e oferece diversas funcionalidades e para facilitar o dia a dia você pode automatizar as tarefas usando scripts, como por exemplo, um backup automático de um diretório, a instalação de programas, instalação do LAMP, etc.
+- Descrição do projeto: abaixo irei mostrar algumas formas de uso de scripts, na qual obtive resultados reais.
+
+## Loops e Condicionais
 
 #### Instruções condicionais - if
--> Exemplo de uso da instrução if: [Exemplo 1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [Exemplo 2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh)
+- Instrução if: [modelo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [modelo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [modelo3], [modelo4]
 
 #### Instruções condicionais - case
 -> Exemplo de uso da instrução case:
@@ -16,7 +23,7 @@
 -> Exemplo de uso da instrução
 
 
-## Uso básico de Shell-Script (Bash)
+## Criando meus primeiros scripts
 A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e simples de automatizar tarefas do dia a dia.
 
 
