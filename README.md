@@ -21,7 +21,7 @@ Argumentos| Descrição
    $*     | retorna todos os argumentos de uma vez só
    $$     | PID do processo atual (do próprio script)
    $?     | retorna o valor do último comando executado
-   $_     | último argumento do último comando executado
+   $_     | último argumento do último comando executado.
 
 ## Loops e Condicionais
 
