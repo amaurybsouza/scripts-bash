@@ -12,15 +12,16 @@
 - Livro "Programação Shell Linux" - por Julio Cezar Neves.
 - Livro "Shell Script Profissional" - por Aurelio Marinho Jargas.
 
-## Variáveis especiais
+## Argumentos especiais
 
-Variável  | Descrição
---------- | ------
-$0        | nome do comando ou função
- teste    | teste
- teste    |  teste
- teste    | teste
-
+Argumentos| Descrição
+--------- | ----------------------------------------------
+   $0     | contém o nome do script que foi executado
+   $#     | contém o número de argumentos que foi passado 
+   $*     | retorna todos os argumentos de uma vez só
+   $$     | PID do processo atual (do próprio script)
+   $?     | retorna o valor do último comando executado
+   $_     | último argumento do último comando executado.
 
 ## Loops e Condicionais
 
@@ -45,18 +46,18 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 - Script que soma valores: [Operação de soma em shell](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/SomaValores.sh)
 
--> Script básico de um menu usando o Case: [Criação de um menu case](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/MenuCase.sh)
+- Script básico de um menu usando o Case: [Criação de um menu case](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/MenuCase.sh)
 
--> Script que gera um relatório de um usuário do sistema: [Relatório de usuário](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatoriodeUsuario.sh)
+- Script que gera um relatório de um usuário do sistema: [Relatório de usuário](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatoriodeUsuario.sh)
 
--> Script que mostra um exemplo básico de operações com valores: [Script com operações](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/OperacoesValores.sh)
+- Script que mostra um exemplo básico de operações com valores: [Script com operações](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/OperacoesValores.sh)
 
 
 ## Scripts para automatização de rotinas
 
--> Script que faz a instalação do Zabbix Agent 4.0 em sistemas Debian: [ZabbixAgent4.0](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstalacaoZabbixAgent.sh)
+- Script que faz a instalação do Zabbix Agent 4.0 em sistemas Debian: [ZabbixAgent4.0](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstalacaoZabbixAgent.sh)
 
--> Script que faz a instalação do Zabbix Agent 4.0 no sistema CentOS: [ZabbixAgent4.0](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/ZabbixAgentCentos.sh)
+- Script que faz a instalação do Zabbix Agent 4.0 no sistema CentOS: [ZabbixAgent4.0](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/ZabbixAgentCentos.sh)
 
--> Instalação automática de programas: [Programas Linux](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/Install_Softwares.sh)
+- Instalação automática de programas: [Programas Linux](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/Install_Softwares.sh)
 
