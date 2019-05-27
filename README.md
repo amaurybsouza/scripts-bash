@@ -29,7 +29,7 @@ Argumentos| Descrição
 
 2) Instrução case: [operações.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/operacoes.sh), [atualiza_sistema.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/atualiza_sistema.sh), [instala_programas.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/instala_programas.sh), [status_apache.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/start_apache.sh)
 
-3) Instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
+3) Instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [verifica_diretorio.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
 
 4) instrução while
 
