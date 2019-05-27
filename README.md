@@ -33,7 +33,7 @@ Argumentos| Descrição
 
 4) instrução while
 
-## Criando meus primeiros scripts
+## Scripts diversos sobre o sistema Linux
 A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e simples de automatizar tarefas do dia a dia.
 - Script para gerar relatório do sistema: [Relatório do sistema](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/RelatorioMaquina.sh).
 
