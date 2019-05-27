@@ -25,16 +25,13 @@ Argumentos| Descrição
 
 ## Loops e Condicionais
 
-1) Instrução if: [modelo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh), [modelo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [modelo3](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/if3_1.sh), [modelo4](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/jogo_secreto.sh), [modelo5](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/verifica_valor.sh), [modelo6](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/compare.sh), [modelo7](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/dir.sh)
+1) Instrução if: [verifica_nome.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [vai_no_show.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/if3_1.sh), [modelo4](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/jogo_secreto.sh), [modelo5](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/verifica_valor.sh), [modelo6](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/compare.sh), [modelo7](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/dir.sh)
 
 2) Instrução case: [operações.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/operacoes.sh), [atualiza_sistema.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/atualiza_sistema.sh), [instala_programas.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/instala_programas.sh), [status_apache.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/start_apache.sh)
 
 3) Instrução for: [Exemplo1](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop.txt), [Exemplo2](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/InstrucoesLoop2.sh), [Exemplo3](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteFor2.sh)
 
 4) instrução while
-
-5) instrução until
-
 
 ## Criando meus primeiros scripts
 A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e simples de automatizar tarefas do dia a dia.
