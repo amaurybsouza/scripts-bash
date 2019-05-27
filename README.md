@@ -29,7 +29,7 @@ Argumentos| Descrição
 
 - Confira na tela uma template de cabeçalho para seu script:
 
-![atualiza_sistema.sh](Shell-Script/ScriptsTestes/foto2.png)
+![atualiza_sistema.sh](ScriptsTestes/foto2.png)
 
 ## Loops e Condicionais
 
