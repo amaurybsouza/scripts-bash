@@ -25,7 +25,7 @@ Argumentos| Descrição
 
 ## Como fazer um cabeçalho objetivo? Veja a tela abaixo: :-)
 
-- É sempre importante criar um cabeçalho para seus scripts, pois outras pessoas poderão usar o seu código em projetos futuros.
+- É sempre importante criar um cabeçalho para seus scripts, pois outras pessoas poderão usar o seu código em projetos futuros, e dessa forma, com o cabeçalho criado, mostrando a forma de se usar o script, facilita o uso.
 
 ## Loops e Condicionais
 
