@@ -23,6 +23,10 @@ Argumentos| Descrição
    $?     | retorna o valor do último comando executado
    $_     | último argumento do último comando executado.
 
+## Como fazer um cabeçalho objetivo? Veja a tela abaixo: :-)
+
+- É sempre importante criar um cabeçalho para seus scripts, pois outras pessoas poderão usar o seu código em projetos futuros.
+
 ## Loops e Condicionais
 
 1) Instrução if: [verifica_nome.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [vai_no_show.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/if3_1.sh), [jogo_secreto.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/jogo_secreto.sh), [verifica_valor.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/verifica_valor.sh), [checa_numero.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/compare.sh), [teste_arquivo.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/dir.sh)
