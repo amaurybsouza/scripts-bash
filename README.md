@@ -27,6 +27,10 @@ Argumentos| Descrição
 
 - É sempre importante criar um cabeçalho para seus scripts, pois outras pessoas poderão usar o seu código em projetos futuros, e dessa forma, com o cabeçalho criado, mostrando a forma de se usar o script, facilita o uso.
 
+- Confira na tela uma template de cabeçalho para seu script:
+
+![atualiza_sistema.sh](ScriptsTestes/foto2.png)
+
 ## Loops e Condicionais
 
 1) Instrução if: [verifica_nome.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/TesteIf1.sh), [vai_no_show.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/if3_1.sh), [jogo_secreto.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/jogo_secreto.sh), [verifica_valor.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/verifica_valor.sh), [checa_numero.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/compare.sh), [teste_arquivo.sh](https://github.com/amaurybsouza/Shell-Script/blob/master/ScriptsTestes/dir.sh)
