@@ -66,3 +66,5 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 - Instalação automática de programas: [Programas Linux](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/Install_Softwares.sh)
 
+- Instalação do LAMP (Apache, MariaDB, PHP): [Lamp_Linux](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/webserver_ubuntu.sh)
+
