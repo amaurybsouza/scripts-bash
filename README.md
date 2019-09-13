@@ -68,3 +68,5 @@ A ideia aqui é apresentar um pouco de Shell Script como um meio agradável e si
 
 - Instalação do LAMP (Apache, MariaDB, PHP): [Lamp_Linux](https://github.com/amaurybsouza/Shell-Script/blob/master/CursoShellScript/ScriptsAmaury/webserver_ubuntu.sh)
 
+- Verificação de informações do hardware/sistema: [Hardware_Machine](https://github.com/amaurybsouza/Shell-Script/blob/master/scripts_novos/hardware_machine.sh)
+
