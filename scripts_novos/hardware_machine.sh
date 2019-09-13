@@ -93,7 +93,7 @@ case $opcao in
 					sleep $TIME
 					;;
 				3)
-					echo Instalando pogramas padrões da DICSI...
+					echo Instalando pogramas padrões...
 					LIST_OF_APPS="pinta brasero gimp vlc inkscape blender filezilla"
 					#usar o comando aptitude do Linux para tratar o loop de programas.
 					apt install aptitude -y
