@@ -22,8 +22,8 @@ function menuprincipal () {
 			function interfaces () {
 				REDES=`ip link show`
 				TIME=3
-				read -p "Entre com uma URL da internet: "
-				echo " "
+				#read -p "Entre com uma URL da internet: "
+				#echo " "
 				sleep $TIME
 				echo "As interfaces do seu sistema são: $REDES"
 				sleep $TIME
@@ -36,7 +36,11 @@ function menuprincipal () {
 
 		2)
 			function dns () {
-				dsdsdsdsd
+				read -p "Entre com uma URL: "
+				echo " "
+			       	dd
+					
+
 			}
 			;;
 
