@@ -1,5 +1,17 @@
 #!/usr/bin/env bash
 
+#############################################################
+#                                                           #
+# NOME: webserver_ubuntu.sh                                 #
+#                                                           #
+# AUTOR: Amaury B. Souza (amaurybsouza@gmail.com)           #
+#                                                           #
+# DESCRIÇÃO: O script faz a instalação da stak LAMP         #
+#                                                           #
+#                                                           #
+# USO: ./webserver_ubuntu.sh                                #
+#############################################################
+
 #Step 1: Install Apache Web Server
 function menuprincipal () {
 	clear
