@@ -1,0 +1,96 @@
+*** AULÃO DE SHELL SCRIPTING
+
+
+FALANDO SOBRE ALIAS:
+
+O que é alias?
+
+- nome alternativo que você dar para algum comando no shell, comandos que você usa com mais frequência.
+- facilita o trabalho do dia a dia.
+
+Exemplos:
+
+- criando um alias para o comando more, veja:
+
+$ alias mo="more"
+
+- para listar os aliases criados, basta digitar alias sem opções:
+
+$ alias
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias grep='grep --color=auto'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+alias rm='rm -i'
+
+
+- criando outro exemplo de alias para comando:
+
+$ lsl="ls -l"
+
+- para deletar um alias que foi criado, existe o comando unalias
+
+
+*** FUNÇÕES:
+
+- o bash permite criar funções que são parecidas com alias.
+- veja a sintaxe:
+
+nome_função() {comandos}
+
+- veja um exemplo de uma função no bash:
+
+$ function Amaury() {
+ls /home/amaury
+ls /tmp
+}
+
+- para visualizar essa função, basta executar um comando $typeset -f  (lista as funções do bash)
+
+$ typeset -f | grep -i amaury
+Amaury () 
+    ls --color=auto /home/amaury
+
+- para executar a função:
+
+$ Amaury (que ele já faz todos os comandos dentro da função)
+
+
+*** ARQUIVOS DE CONFIGURAÇÃO DOS USUÁRIOS:
+
+- arquivo bashrc (/home/user)
+- existem alguns alias já definidos nesse arquivo
+- as funções, alias para serem configurados permanentes, devem ser usados arquivos de configuração.
+- existem 3 formas de iniciar um shell (shell de login, quando se abre o terminal, shell não interativo, quando se roda um script)
+
+
+- principais arquivos de configuração:
+
+-> /etc/profile (executado durante o login e vale para todo o sistema, contém variaveis de ambientes e programas de inicialização)
+-> /etc/bashrc ou /etc/bash.bashrc.
+
+
+
+1) shell de login (quando iniciamos o sistema, ele procura por 4 arquivos no sistema)
+
+-> /etc/profile
+-> ~/.bash_profile
+-> ~/.bash_login
+-> ~/.profile
+
+2) shell interativo (quando se abre um novo terminal)
+
+-> ele executa o ~/.bashrc (alias, funções, scripts pessoais, ele pode chamar outros arquivos)
+
+3) shell não interativo (é executado para rodar um shell script, um script)
+
+-> 
+
+
+
+
+
+
