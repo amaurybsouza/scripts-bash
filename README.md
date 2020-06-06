@@ -12,9 +12,9 @@
 - Livro "Programação Shell Linux" - por Julio Cezar Neves.
 - Livro "Shell Script Profissional" - por Aurelio Marinho Jargas.
 
-### Condições importantes:
+## Condições importantes:
 
-## Argumentos especiais
+### Argumentos especiais
 
 Argumentos| Descrição
 --------- | ----------------------------------------------
@@ -30,7 +30,7 @@ Argumentos| Descrição
    $!     | Exibe o PID do processo em background (job)
    
 
-## Comparações númericas
+### Comparações númericas
 
 Comparação | Descrição
 -----------|--------------------------------------
@@ -41,7 +41,7 @@ n1 -le n2  | verifica se n1 é menor ou igual a n2
 n1 -lt n2  | verifica se n1 é menor do que n2
 n1 -ne n2  | verifica se n1 é diferente de n2
 
-## Status de saída
+### Status de saída
 
 Código | Significado
 -------|-----------------------------------------------
