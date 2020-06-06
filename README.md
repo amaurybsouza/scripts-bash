@@ -27,13 +27,28 @@ Argumentos| Descrição
 ### Comparações númericas
 
 Comparação | Descrição
------------|--------------------------------
+-----------|--------------------------------------
 n1 -eq n2  | verifica se n1 é igual a n2
-n1 -ge n2  |
-n1 -gt n2  |
-n1 -le n2  |
-n1 -lt n2  |
-n1 -ne n2  |
+n1 -ge n2  | verifica se n1 é maior ou igual a n2
+n1 -gt n2  | verifica se n1 é maior do n2
+n1 -le n2  | verifica se n1 é menor ou igual a n2
+n1 -lt n2  | verifica se n1 é menor do que n2
+n1 -ne n2  | verifica se n1 é diferente de n2
+
+### Status de saída
+
+Código | Significado
+-------|-----------------------------------------------
+0      | comando completado com sucesso
+1      | erro geral desconhecido
+126    | o comando não pode ser executado (permissões)
+127    | comando não encontrado
+130    | comando finalizado com Ctrl + C
+
+
+
+
+
 
 
 
