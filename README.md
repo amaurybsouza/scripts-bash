@@ -22,6 +22,20 @@ Argumentos| Descrição
    $$     | PID do processo atual (do próprio script)
    $?     | retorna o valor do último comando executado
    $_     | último argumento do último comando executado.
+   
+
+### Comparações númericas
+
+Comparação | Descrição
+-----------|--------------------------------
+n1 -eq n2  | verifica se n1 é igual a n2
+n1 -ge n2  |
+n1 -gt n2  |
+n1 -le n2  |
+n1 -lt n2  |
+n1 -ne n2  |
+
+
 
 ### Como fazer um cabeçalho objetivo? Veja a tela abaixo: :-)
 
